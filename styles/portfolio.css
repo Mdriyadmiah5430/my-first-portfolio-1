@@ -116,3 +116,21 @@ font-weight: 400;
     margin-top: 50px;
 
 }
+.main-focus{
+    width: 1140px;
+    height: 690px;
+    justify-content: center
+    ;
+    align-items: center;
+    margin-left: 45px;
+    margin-top: 50px;
+    border-radius: 12px;
+}
+.login-form{
+    width: 1140px;
+    height: 632px;
+    align-items: center;
+    border: 1px solid black;
+    padding-right: 40px;
+    margin-left: 50px;
+}
